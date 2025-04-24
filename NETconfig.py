@@ -13,6 +13,3 @@ client_threads = [] # Server: List to hold client handling threads
 player_id_counter = 0 # Server: Simple way to assign unique IDs
 network_players = {} # All instances: Dictionary to store player data {player_id: player_object_or_data}
 my_player_id = None # Client/Host: This instance's unique ID
-
-#My IP Address
-# 192.168.1.64    /    192.168.1.64 (Both are the same, use any)
